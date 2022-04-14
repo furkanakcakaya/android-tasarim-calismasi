@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Homesy</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="living_room">Living room</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="kids_room">Kids room</string>
+    <string name="dining_room">Dining room</string>
+    <string name="light_control">Light Control</string>
+    <string name="power_supply">Power Supply</string>
+    <string name="temperature">Temperature</string>
+    <string name="temp">81°F</string>
 </resources>

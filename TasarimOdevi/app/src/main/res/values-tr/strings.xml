@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homesy</string>
+    <string name="bathroom">Banyo</string>
+    <string name="bedroom">Yatak Odası</string>
+    <string name="living_room">Oturma Odası</string>
+    <string name="kitchen">Mutfak</string>
+    <string name="kids_room">Çocuk Odası</string>
+    <string name="dining_room">Yemek Odası</string>
+    <string name="light_control">Işık Kontrolü</string>
+    <string name="power_supply">Güç Kaynağı</string>
+    <string name="temperature">Hava Sıcaklığı</string>
+    <string name="temp">27°C</string>
+</resources>

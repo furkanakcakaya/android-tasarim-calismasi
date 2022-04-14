@@ -6,3 +6,6 @@
 
 
 ![alt text](https://github.com/furkanakcakaya/android-tasarim-calismasi/blob/main/tasarim_odevi_dark.png?raw=true)
+
+
+![alt text](https://github.com/furkanakcakaya/android-tasarim-calismasi/blob/main/tasarim_odevi_tr.png?raw=true)
